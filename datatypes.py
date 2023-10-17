@@ -19,3 +19,14 @@ print(type(mybool))
 print(type(mylist))
 print(type(mytuple))
 print(type(mycomplex))
+
+# type conversion(Type Casting)
+x=7
+y=float(x)
+print(y)
+print(type(y))
+
+#Type Casting
+# Has changed from string to float
+w=float("6.9")
+print(w)
